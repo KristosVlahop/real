@@ -1,0 +1,22 @@
+packages:
+  "framer-motion": "For premium scroll animations and component transitions"
+  "react-hook-form": "For robust contact form state management"
+  "@hookform/resolvers": "For Zod schema validation integration"
+  "clsx": "For conditional class names"
+  "tailwind-merge": "For merging tailwind classes in reusable components"
+
+images:
+  - path: "artifacts/spero-ai/public/images/dashboard-mockup.png"
+    description: "A dark mode, modern, sleek SaaS dashboard UI mockup showing revenue metrics, line charts, and active leads. Glowing electric blue and emerald green accents on a dark charcoal background."
+    aspect_ratio: "16:9"
+  - path: "artifacts/spero-ai/public/images/abstract-bg.png"
+    description: "Abstract dark background with subtle glowing electric blue and emerald green gradient meshes, soft light leaks, and a premium modern tech agency feel."
+    aspect_ratio: "16:9"
+  - path: "artifacts/spero-ai/public/images/spero-logo.png"
+    description: "Minimalist, sharp geometric tech logo mark for 'Spero AI' in electric blue and emerald green on a transparent background."
+    aspect_ratio: "1:1"
+
+notes:
+  - Pure frontend static marketing site as requested. No API integrations required.
+  - Smooth scrolling implemented natively for anchor links.
+  - Form validation handled entirely client-side via react-hook-form and zod.
